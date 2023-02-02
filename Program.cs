@@ -12,3 +12,6 @@
     Console.WriteLine($"{animal} is very cool! What is your favorite band?");// output 
     var band = Console.ReadLine(); // input 
 }
+
+
+
